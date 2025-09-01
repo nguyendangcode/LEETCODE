@@ -26,6 +26,6 @@ int trap(int* height, int heightSize) {
 
 int main() {
     int a[] = {0,1,0,2,1,0,1,3,2,1,2,1};
-    printf("%d\n", trap(a, 12));  // Output: 6
+    printf("%d\n", trap(a, 12));  
     return 0;
 }
